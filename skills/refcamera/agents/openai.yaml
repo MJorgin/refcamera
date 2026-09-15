@@ -1,0 +1,4 @@
+interface:
+  display_name: "RefCamera"
+  short_description: "Direct AI image generation with role-separated visual references"
+  default_prompt: "Use RefCamera role-separated references to generate and refine an original raster image."
