@@ -2,6 +2,8 @@
 
 **English** · [**简体中文**](README.zh-CN.md)
 
+![RefCamera — role-separated reference direction for AI image generation](docs/hero.png)
+
 > Give AI image models a cinematography crew, not a moodboard.
 
 RefCamera is a Codex skill for role-separated AI image generation. Instead of sending a model a pile of inspirational images, assign each reference a narrow job:
