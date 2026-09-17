@@ -2,8 +2,6 @@
 
 [**English**](README.md) · **简体中文**
 
-![RefCamera — 角色分工式 AI 生图参考导演](docs/hero.png)
-
 > 给 AI 生图模型配一个摄影组，而不是丢一堆情绪板。
 
 RefCamera 是一个做**角色分工式** AI 生图的 Codex skill。与其把一堆灵感图一股脑丢给模型，
